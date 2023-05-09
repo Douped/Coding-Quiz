@@ -3,7 +3,7 @@
     background-color: #20bd88;
 }
 
-.topBar{
+#topBar{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -15,18 +15,18 @@
     border-color: black;
 }
 
-.startbox{
+#startbox{
     display: flex;
     text-align: center;
     flex-direction: column;
     align-items: center;
     margin:20px 0px 0px 0px;
 }
-.startbox h1{
+#startbox h1{
     margin: 0px 0px 0px 0px;
     font-size:40px;
 }
-.startbox p{
+#startbox p{
     margin: 10px 0px 10px 0px;
     font-size:25px;
     width:420px;
