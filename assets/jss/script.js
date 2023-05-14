@@ -62,6 +62,7 @@ function decrementTimer() {
 //Quiz display
 function displayQuiz() {
     document.querySelector("main").setAttribute("style", "display: block");
+    
 }
 
 //Stop quiz
