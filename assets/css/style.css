@@ -31,3 +31,16 @@
     font-size:25px;
     width:420px;
 }
+main{
+    display: none;
+    text-align: center;
+}
+
+#endScreen{
+    display:none;
+    text-align: center;
+}
+
+button:hover{
+    background-color: aqua;
+}
